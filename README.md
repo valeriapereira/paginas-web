@@ -128,6 +128,6 @@ Usando html, css e javaScript
 	<footer class="rodape">
 		&copy; Faculdade Impacta de Tecnologia
 		<center><b>Integrantes do grupo</b></center>
-		<center>Valeria Pereira RA 1800382 Victor Gonçalves RA 1800124</center><br/><p></p>
+		<center>Valeria Pereira Victor Gonçalves</center><br/><p></p>
 		</footer>
 </html>
