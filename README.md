@@ -1,8 +1,7 @@
 # paginas-web
 <!DOCTYPE html>
-
-<html>  
-  <head>
+<html>
+	<head>
 		<meta charset="utf-8">
 		<title>Cadastro de aluno</title>
 		<link rel="icon" href="impacta.png">
@@ -12,14 +11,14 @@
 		<h1>Faculdade Impacta</h1>
 		<h2>Faça sua matricula!</h2>
 		<form>
-		  <fieldset><legend><b>Cadastro</b></legend>
-      <table>	
-        <tr>
-          <td>
-            <label for="Nome" id="nome">Nome completo</label>
-            <input type="text" name="nome" maxlength="20"  placeholder="Digite seu nome completo">
-          </td>
-			  <td>
+		<fieldset><legend><b>Cadastro</b></legend>
+		<table>	
+			<tr>
+				<td>
+					<label for="Nome" id="nome">Nome completo</label>
+					<input type="text" name="nome" maxlength="20"  placeholder="Digite seu nome completo">
+				</td>
+				<td>
 					<label for="cpf" id="cpf">CPF</label>
 					<input type="text" name="cpf" maxlength="14" placeholder="Digite seu CPF">
 				</td>
@@ -95,9 +94,9 @@
 		<table>
 			<tr>
 				<td>
-					<p><input name="curso1" type="checkbox" id="ads">Análise e Desenvolvimento de Sistemas <em>IoT, DevOps & Mobile</em></p>
-					<p><input name="curso2" type="checkbox" id="si">Sistemas de Informação <em>Business Agility & Computação Cognitiva</em></p>
-					<p><input name="curso3" type="checkbox" id="redes">Redes de Computadores <em>Cloud Computing & Cyber Security</em></p>
+<p><input name="curso1" type="checkbox" id="ads">Análise e Desenvolvimento de Sistemas <em>IoT, DevOps & Mobile</em></p>
+<p><input name="curso2" type="checkbox" id="si">Sistemas de Informação <em>Business Agility & Computação Cognitiva</em></p>
+<p><input name="curso3" type="checkbox" id="redes">Redes de Computadores <em>Cloud Computing & Cyber Security</em></p>
 				</td>
 			</tr>
 		</table>
